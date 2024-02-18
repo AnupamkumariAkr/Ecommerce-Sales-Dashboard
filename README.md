@@ -10,15 +10,15 @@ The objective of this Dashboard to analyses year -to -year Date Sales and Highli
 DASHBOARD CONTENT:
 
 
-1st Sheet: Sales KPI's
+1st Sheet:   Sales KPI's
 
-2nd Sheet: Profit KPI's 
+2nd Sheet:   Profit KPI's 
 
-3rd Sheet: Order Quantity
+3rd Sheet:   Order Quantity
 
-4th Sheet: Market share by Sales (pie chart)
+4th Sheet:   Market share by Sales (pie chart)
 
-5th Sheet: Category wise YTD VS PYTD Sales
+5th Sheet:   Category wise YTD VS PYTD Sales
 
-6th Sheet: Market wise Customer Acq(Donut chart)
+6th Sheet:   Market wise Customer Acq(Donut chart)
 
