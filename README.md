@@ -1,6 +1,8 @@
 # Ecommerce-Sales-Dashboard
 
 ## ABOUT COMPANY
+Our company, a car dealership, aims to enhance sales performance tracking and analysis through an efficient Car Sales Dashboard in Tableau.
 
 ## OBJECTIVE
-The objective of this Dashboard to analyses year -to -year Date Sales and Highlight essential metrics applicable to the E-commerce Business.
+Design and develop a dynamic, interactive Car Sales Dashboard to visualize critical KPIs, enabling data-driven decision-making and understanding sales performance trends over time.
+
