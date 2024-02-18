@@ -22,5 +22,11 @@ DASHBOARD CONTENT:
 
 6th Sheet:   Market wise Customer Acq(Donut chart)
 
-
 DASHBOARD:
+
+
+![ecommerce image](https://github.com/AnupamkumariAkr/Ecommerce-Sales-Dashboard/assets/157566167/f74018fa-a537-495f-ae0f-a71725da1b85)
+
+
+
+
